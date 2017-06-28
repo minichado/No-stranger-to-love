@@ -1,5 +1,3 @@
-import signal
-import logging
 import time
 
 
